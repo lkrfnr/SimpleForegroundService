@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SimpleForegroundService</string>
+    <string name="start_service">START SERVICE</string>
+    <string name="stop_service">STOP SERVICE</string>
+    <string name="service_message">Service Message</string>
+
+</resources>
